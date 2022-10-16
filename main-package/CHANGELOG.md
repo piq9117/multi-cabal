@@ -1,4 +1,4 @@
-# Revision history for package-two
+# Revision history for package-one
 
 ## 0.1.0.0 -- YYYY-mm-dd
 

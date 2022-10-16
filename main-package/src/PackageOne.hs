@@ -2,6 +2,8 @@ module PackageOne
   ( PackageOne(..)
   ) where
 
+import Data.Text (Text)
+
 data PackageOne = PackageOne
-  { fieldTwo :: Int
+  { fieldOne :: Text
   }
